@@ -1,7 +1,6 @@
-# beer-review-analysis
 # Beer Review Analysis
 
-This project analyzes over 1.5 million beer reviews to uncover insights about consumer preferences, beer styles, and reviewer behavior. It was completed as part of the CSE 6242 course at Georgia Tech.
+This project analyzes over 1.5 million beer reviews to uncover insights about consumer preferences, beer styles, and reviewer behavior. It was completed as a group project for the CSE 6242 course at Georgia Tech.
 
 - Objective
 Explore trends and patterns in beer reviews.
