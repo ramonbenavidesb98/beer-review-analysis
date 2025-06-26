@@ -20,7 +20,7 @@ We then used the Google Places API to enrich the original dataset with latitude 
 
 import kagglehub
 
-# Download latest version of the dataset
+Download latest version of the dataset
 path = kagglehub.dataset_download("rdoume/beerreviews")
 
 Dataset variables description:
