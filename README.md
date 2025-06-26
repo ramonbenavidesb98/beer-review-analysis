@@ -6,6 +6,10 @@ DESCRIPTION
 -----------
 Welcome to our Beer Review Analysis project! 
 
+## Attribution
+
+This project was developed in collaboration with classmates as part of the CSE 6242 Data & Visual Analytics course at Georgia Tech (Spring 2024). I contributed to all aspects of the analysis, data enrichment, and visual storytelling.
+
 This user guide provides instructions on how to set up and run the code contained in the `cse6242_project_code.ipynb` Jupyter notebook. 
 
 Our project aims to uncover consumer preferences in the craft beer market by analyzing a dataset of 1.5 million beer reviews. Through this analysis, we aim to identify key factors influencing consumer choices, segment consumers based on preferences, investigate geographical influences, and provide actionable insights for breweries, marketers, and beer enthusiasts.
